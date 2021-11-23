@@ -30,4 +30,3 @@ else
     echo "  js"
     echo "  php"
 fi
-
